@@ -1,3 +1,8 @@
 layout: page
 title: "home-page"
-permalink: /
+permalink: /home
+
+
+# Gravitational Wave Limericks
+
+A place to add a poem. 
