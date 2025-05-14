@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: "How To"
 permalink: /how-to
 ---
