@@ -1,15 +1,14 @@
 A place to write limericks about all things related to gravitational waves. 
 
 
-<pre> 
-Limerick Limerick Limerick 
-Limerick Limerick Limerick 
-Limerick Limerick 
-Limerick Limerick 
-Limerick Limerick Limerick 
-_
-Author Name, Location 
-</pre>
+<p style="color:green"> Limerick Limerick Limerick <br>
+Limerick Limerick Limerick <br>
+Limerick Limerick <br>
+Limerick Limerick <br>
+Limerick Limerick Limerick <br>
+_ <br>
+Author Name, Location <br>
+</p>
 
 # How to add a poem 
 
