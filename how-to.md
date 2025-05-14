@@ -1,7 +1,8 @@
-layout: page
+'''
+layout: home
 title: "How To"
 permalink: /how-to
-
+'''
 
 # How to ...
 
