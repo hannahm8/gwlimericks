@@ -4,7 +4,11 @@ title: "Gravitational Wave Limericks"
 permalink: /
 ---
 
-<p>A place to write limericks about all things related to gravitational waves.</p>p
+<p>This year we celebrate 10 years of gravitational-wave detection!</p>
+
+<p>In celebration, we invite you to share your gravitational-wave limericks. We will publish as many as we can in these pages</p>
+
+
 
 # Latest limerick
 
