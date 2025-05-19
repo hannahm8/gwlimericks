@@ -19,7 +19,8 @@ permalink: /
 
 <hr>
 
-<p style="font-size:11px" style="color:green"> 
+<p style="font-size:11px" style="color:#3A003A;""> 
+<b>The rest is is history </b><br>
 There will be a mission called LISA<br>
 soon launched by NASA and ESA<br>
 Taking Einstein to space<br>
@@ -32,7 +33,7 @@ Sascha Rieger, ... <br>
 
 <hr>
 
-<p style="font-size:11px" style="color:green"> 
+<p style="font-size:11px" style="color:#3A003A;"> 
 There will be a mission called LISA<br>
 soon launched by NASA and ESA<br>
 Taking Einstein to space<br>
