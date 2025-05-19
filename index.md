@@ -3,20 +3,6 @@ layout: page
 title: "Gravitational Wave Limericks"
 permalink: /
 ---
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-div {
-  background-color: lightgrey;
-  width: 300px;
-  border: 15px solid green;
-  padding: 50px;
-  margin: 20px;
-}
-</style>
-</head>
-<body>
 
 
 <p>This year we celebrate 10 years of gravitational-wave detection!</p>
@@ -29,16 +15,16 @@ div {
 
 <h1>Latest limericks</h1>
 
-<div>There will be a mission called LISA<br>
+<p style="font-size:11px" style="color:green"> There will be a mission called LISA<br>
 soon launched by NASA and ESA<br>
 Taking Einstein to space<br>
 there detecting his waves<br>
 which for a hundred years were just a teaser.<br>
 _ <br>
 Sascha Rieger, ... <br>
-</div>
+</p>
 
-<p style="color:green"> There will be a mission called LISA<br>
+<p style="font-size:11px" style="color:green"> There will be a mission called LISA<br>
 soon launched by NASA and ESA<br>
 Taking Einstein to space<br>
 there detecting his waves<br>
