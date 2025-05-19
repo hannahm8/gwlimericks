@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Gravitational Wave Limericks"
+title: "Home"
 permalink: /
 ---
 
