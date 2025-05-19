@@ -15,14 +15,9 @@ permalink: /
 
 <h1>Latest limericks</h1>
 
-<p style="font-size:11px" style="color:green"> There will be a mission called LISA<br>
-soon launched by NASA and ESA<br>
-Taking Einstein to space<br>
-there detecting his waves<br>
-which for a hundred years were just a teaser.<br>
-_ <br>
-Sascha Rieger, ... <br>
-</p>
+<p>Here are the latest limericks for you to enjoy. Visit the limeick page to see more!</p>
+
+<hr>
 
 <p style="font-size:11px" style="color:green"> There will be a mission called LISA<br>
 soon launched by NASA and ESA<br>
@@ -33,7 +28,20 @@ _ <br>
 Sascha Rieger, ... <br>
 </p>
 
-# How to add a limerick 
+<hr>
+
+<p style="font-size:11px" style="color:green"> There will be a mission called LISA<br>
+soon launched by NASA and ESA<br>
+Taking Einstein to space<br>
+there detecting his waves<br>
+which for a hundred years were just a teaser.<br>
+_ <br>
+Sascha Rieger, ... <br>
+</p>
+
+<hr>
+
+
 
 * instructions
 * instructions 
