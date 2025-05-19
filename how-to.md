@@ -4,15 +4,18 @@ title: "How To"
 permalink: /how-to
 ---
 
-# How to submit your limerick
+<h1>How to submit your limerick</h1>
 
-<p style="color:green">A decade since the gravitational wave,<br>
+<p style="font-size:11px" style="color:#3A003A;"><br>
+A decade since the gravitational wave,<br>
 A discovery about which we rave,<br> 
 Why not write a rhyme,<br>
 To celebrate this time,<br>
 Submit your limerick, be brave!<br>
 _ <br>
-H.Middleton, UK <br>
+Hannah Middleton, UK <br>
+<br>
 </p>
 
-Celebrate 10 years of gravitaitonal-wave detection with a limerick! Submit your limerick by going to: 
+
+<p>Celebrate in style by composing your own gravitational-wave limerick.</p>
