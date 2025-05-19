@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Home"
+title: "Celebrating a decade of gravitational-wave detection with limericks!"
 permalink: /
 ---
 
