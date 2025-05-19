@@ -15,7 +15,7 @@ permalink: /
 
 <h1>Latest limericks</h1>
 
-<p>Here are the latest limericks for you to enjoy. Visit the limeick page to see more!</p>
+<p>Here are the latest limericks for you to enjoy. Visit the limeick page to see more!<br></p>
 
 <hr>
 
@@ -46,6 +46,7 @@ Sascha Rieger, ... <br>
 
 <hr>
 
-<p>Send in your own limirick <a href="https://hannahm8.github.io/gwlimericks/how-to">here</a>. 
+
+<p><br>Send in your own limirick <a href="https://hannahm8.github.io/gwlimericks/how-to">here</a>. 
 
 
