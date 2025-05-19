@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Limericks"
+title: "All Limericks"
 permalink: /limericks
 ---
 
