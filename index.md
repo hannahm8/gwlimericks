@@ -9,7 +9,7 @@ permalink: /
 
 <p>In celebration, we invite you to share your gravitational-wave limericks. We will publish as many as we can in these pages</p>
 
-<p>Go to the [How To](https://hannahm8.github.io/gwlimericks/how-to) page to submit your limerick. 
+<p>Go to the <a href="https://hannahm8.github.io/gwlimericks/how-to">How To</a> page to submit your limerick. 
 
 
 
