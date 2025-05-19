@@ -19,7 +19,7 @@ permalink: /
 
 <hr>
 
-<p style="font-size:11px" style="color:#3A003A;""><br> 
+<p style="font-size:11px" style="color:#3A003A;"><br> 
 <b>The rest is is history </b><br>
 There will be a mission called LISA<br>
 soon launched by NASA and ESA<br>
