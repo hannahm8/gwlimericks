@@ -23,4 +23,4 @@ Hannah Middleton, UK <br>
 <p>Rules</p>
 
 
-<p>Ready to submit? Go to the <a href="https://github.com/hannahm8/gwlimericks/issues/new?template=new-limerick.yaml">limerick submission form</a>.</p>
+<p>Ready to submit? Go to the <a href="https://github.com/hannahm8/gwlimericks/issues/new?template=new-limerick.yaml">limerick submission form</a> on github. Note that we prefer to collect limericks via the github form, we can also accept limericks by email prefered ADD EMAIL HERE.</p>
