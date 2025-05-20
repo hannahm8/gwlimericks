@@ -19,3 +19,8 @@ Hannah Middleton, UK <br>
 
 
 <p>Celebrate in style by composing your own gravitational-wave limerick.</p>
+
+<p>Rules</p>
+
+
+<p>Ready to submit? Go to the <a url='https://github.com/hannahm8/gwlimericks/issues/new?template=new-limerick.yaml'>limerick submission form</a>.</p>
