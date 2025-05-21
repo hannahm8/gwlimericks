@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Gravitaitonl Wave Limericks"
+title: "GW Limericks"
 permalink: /
 ---
 
@@ -12,6 +12,8 @@ permalink: /
 <p><b>Go to the <a href="https://hannahm8.github.io/gwlimericks/how-to-submit">How To Submit</a> page to submit your limerick.</b>b 
 <br>
 
+<h1>What are gravitational waves?</h1>
+<p> to do</p>
 
 <h1>Latest limericks</h1>
 
