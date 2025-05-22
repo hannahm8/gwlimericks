@@ -5,19 +5,19 @@ permalink: /
 ---
 
 
-<p>This year we celebrate 10 years of gravitational-wave detection!</p>
+<p>This year is the 10 year anniversary of the first gravitaitonal-wave detection!</p>
 
 <p>In celebration, we invite you to share your gravitational-wave limericks. We will publish as many as we can in these pages</p>
 
-<p><b>Go to the <a href="https://hannahm8.github.io/gwlimericks/how-to-submit">How To Submit</a> page to submit your limerick.</b>b 
+<p><b>Go to the <a href="https://hannahm8.github.io/gwlimericks/how-to-submit">How To Submit</a> page to submit your limerick.</b>
 <br>
 
 <h1>What are gravitational waves?</h1>
-<p> to do</p>
+<p>to do -  a short paragraph mentioning LVK.... </p>
 
 <h1>Latest limericks</h1>
 
-<p>Here are the latest limericks for you to enjoy. Visit the limeick page to see more!<br></p>
+<p>Here are the latest limericks for you to enjoy. Visit the <a href='https://hannahm8.github.io/gwlimericks/limericks'>main limeick page</a>a to see more!<br></p>
 <br>
 
 <hr>
