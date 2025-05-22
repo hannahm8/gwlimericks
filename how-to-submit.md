@@ -8,6 +8,13 @@ permalink: /how-to-submit
 
 <p>Celebrate a decade of gravitational-wave observation by composing your own gravitational-wave limerick!</p>
 
+<h2>Guidance</h2>
+<p>A <a href="https://wordsforlife.org.uk/activities/how-write-limerick/">limerick</a> is a five line poem. Typically the first, second and fifth line rhyme with each other. The third and fourth line are typically shorter and also rhyme with each other. </p>
+<br>
+<p>Ready to submit? Go to the <a href="https://github.com/hannahm8/gwlimericks/issues/new?template=new-limerick.yaml">limerick submission form</a> on github. Note that we prefer to collect limericks via the github form, but you could also use the google form if github is not possible (to do ). </p>
+<br>
+<br>
+
 <p style="font-size:11px" style="color:#3A003A;"><br>
 A decade since the gravitational wave,<br>
 A discovery about which we rave,<br> 
@@ -18,11 +25,3 @@ _ <br>
 Hannah Middleton<br>
 <br>
 </p>
-<br>
-
-<h2>Guidance</h2>
-<p>A <a href="https://wordsforlife.org.uk/activities/how-write-limerick/">limerick</a> is a five line poem. Typically the first, second and fifth line rhyme with each other. The third and fourth line are typically shorter and also rhyme with each other. </p>
-<br>
-
-
-<p>Ready to submit? Go to the <a href="https://github.com/hannahm8/gwlimericks/issues/new?template=new-limerick.yaml">limerick submission form</a> on github. Note that we prefer to collect limericks via the github form, but you could also use the google form if github is not possible (to do ). </p>
