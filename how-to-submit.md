@@ -10,8 +10,9 @@ permalink: /how-to-submit
 
 <h2>Guidance</h2>
 <p>A <a href="https://wordsforlife.org.uk/activities/how-write-limerick/">limerick</a> is a five line poem. Typically the first, second and fifth line rhyme with each other. The third and fourth line are typically shorter and also rhyme with each other. </p>
-<br>
-<p>Ready to submit? Go to the <a href="https://github.com/hannahm8/gwlimericks/issues/new?template=new-limerick.yaml">limerick submission form</a> on github. Note that we prefer to collect limericks via the github form, but you could also use the google form if github is not possible (to do ). </p>
+
+<h2>Ready to submit</h2>
+<p>Go to the <a href="https://github.com/hannahm8/gwlimericks/issues/new?template=new-limerick.yaml">limerick submission form</a> on github. Note that we prefer to collect limericks via the github form, but you could also use the google form if github is not possible (to do ). </p>
 <br>
 <br>
 
