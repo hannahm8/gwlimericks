@@ -14,7 +14,6 @@ permalink: /how-to-submit
 <h2>Ready to submit</h2>
 <p>Go to the <a href="https://github.com/hannahm8/gwlimericks/issues/new?template=new-limerick.yaml">limerick submission form</a> on github. Note that we prefer to collect limericks via the github form, but you could also use the google form if github is not possible (to do ). </p>
 <br>
-<br>
 
 <p style="font-size:11px" style="color:#3A003A;"><br><i>
 A decade since the gravitational wave,<br>
