@@ -4,7 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A place to share gravitational wave limericks. 
 baseurl: "/gwlimericks" # the subpath of your site, e.g. /blog
 url: "hannahm8.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  hannahm8
+github_username:  to do 
 
 # Build settings
 theme: minima
