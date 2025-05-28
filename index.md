@@ -70,6 +70,6 @@ Sascha Rieger<br></i>
 <hr>
 
 
-<p><br>Send in your own limirick <a href="https://hannahm8.github.io/gwlimericks/how-to-submit">here</a>. 
+<p><br>Send in your own limerick <a href="https://hannahm8.github.io/gwlimericks/how-to-submit">here</a>. 
 
 
