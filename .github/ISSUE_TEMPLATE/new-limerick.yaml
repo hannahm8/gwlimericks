@@ -1,6 +1,6 @@
 name: New limerick
 description: Submit your gravitational-wave limerick
-title: "[limerick]: "
+title: "[issue title]: A new limerick submission"
 labels: ["limerick"]
 projects: ["gwlimericks"]
 assignees:
@@ -9,7 +9,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thank you for submitting a limerick! 
+        Fill in the details below and press "Create" to submit your limerick.
   - type: textarea
     id: limerick
     attributes:
