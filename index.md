@@ -17,7 +17,7 @@ permalink: /
 <p><a href="https://ligo.org/gravitational-wave-science/">Gravitational waves</a> are ripples in space-time caused by the accelleration of massive objects. Only the most massive objects (such as <a href="https://en.wikipedia.org/wiki/Black_hole">black holes</a> and <a href="https://en.wikipedia.org/wiki/Neutron_star">neutron stars</a>) make gravitational waves large enought to detect. On 14th September 2015, the observation of gravitational waves from a merging black hole binary (<a href="https://ligo.org/science-summaries/GW150914/">GW150914</a>) was a breakthrough discovery and the beginning of a new type of astronomy. The <a href="https://ligo.org/">LIGO</a>-<a href="https://www.ego-gw.it/">Virgo</a>-<a href="https://gwcenter.icrr.u-tokyo.ac.jp/en/">KAGRA</a> Collaborations are now making routine gravitational-wave discoveries and revealing a Universe of <a href="https://ligo.org/science-summaries/O3bCatalog/">gravitational-wave signals</a>.</p>
 
 <p>
-So, in celebration of a decade of gravitational-wave discovery, we invite you to put pen to paper and write a limerick (or two!) about anything and everything related to gravitational waves. Including all frequencies of gravitational waves, instrumentation, data anlysis, theory, communication, and more. 
+So, in celebration of a decade of gravitational-wave discovery, we invite you to put pen to paper and write your own limerick(s) about anything and everything related to gravitational waves. Including all frequencies of gravitational waves, instrumentation, data anlysis, theory, communication, and more. 
 </p>
 <br>
 <br>
