@@ -24,7 +24,7 @@ So, in celebration of a decade of gravitational-wave discovery, we invite you to
 
 <h1>Latest limericks</h1>
 
-<p>Here are the latest limericks for you to enjoy. Visit the <a href='https://hannahm8.github.io/gwlimericks/limericks'>main limeick page</a> to see more!<br></p>
+<p>Here are the latest limericks for you to enjoy. Visit the <a href='https://hannahm8.github.io/gwlimericks/limericks'>main limerick page</a> to see more!<br></p>
 <br>
 
 <hr>
