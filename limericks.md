@@ -76,7 +76,7 @@ Gravitational waves seemed a bit of a stretch,<br>
 until some mad scientists made a pledge:<br>
 To see space-time bend<br>
 one laser to mirrors we'll send,<br>
-and so the Nobel Prize they fetched. .<br>
+and so the Nobel Prize they fetched.<br>
 _ <br>
 Sascha Rieger, May 2025<br></i>
 <br>
