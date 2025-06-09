@@ -16,7 +16,7 @@ A discovery about which we rave,<br>
 Why not write a rhyme,<br>
 To celebrate this time,<br>
 Submit your limerick, be brave!<br>
-</p>
+</i></p>
 
 <h3>Ready to submit?</h3>
 <p>Go to the <a href="https://github.com/hannahm8/gwlimericks/issues/new?template=new-limerick.yaml">limerick submission form</a> on github. Note that we prefer to collect limericks via the github form, but you could also use the <a href="https://forms.gle/iKjzHg75efZpm4wz6">google form</a> if github is not possible.</p>
