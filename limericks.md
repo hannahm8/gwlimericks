@@ -13,6 +13,20 @@ permalink: /limericks
 <hr>
 
 <p style="font-size:11px" style="color:#3A003A;"><br><i>
+<b>Limerick-008:<br>Black Hole Revelry</b><br>
+Two black holes in a rarity<br>
+Whirled around in hilarity<br>
+In a wild fit of depravity<br>
+They spewed out waves of gravity<br>
+Before falling to a singularity<br>
+  _ <br>
+Keith Riles, June 2025<br></i>
+<br>
+</p>
+
+<hr>
+
+<p style="font-size:11px" style="color:#3A003A;"><br><i>
 <b>Limerick-007:</b><br>
 I once discovered a gravitational wave,<br>
 It was a struggle to make the computer behave,<br>
