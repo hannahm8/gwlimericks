@@ -47,7 +47,7 @@ Big black holes are formed from stars<br>
 So metal poor that they are situated far<br>
 But inspiralling binaries all<br>
 May contain black holes big or small<br>
-The biggest ones lead to lead to GWs with high SNR<br>
+The biggest ones lead to GWs with high SNR<br>
   _ <br>
 Debnandini Mukherjee, June 2025<br></i>
 <br>
