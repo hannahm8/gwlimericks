@@ -13,7 +13,7 @@ permalink: /limericks
 <hr>
 
 <p style="font-size:11px" style="color:#3A003A;"><br><i>
-<b>Limerick-007:<br></b><br>
+<b>Limerick-007:</b><br>
 I once discovered a gravitational wave,<br>
 It was a struggle to make the computer behave,<br>
 I set up the run,<br>
