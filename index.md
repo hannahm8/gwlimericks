@@ -7,7 +7,7 @@ permalink: /
 
 <p>This year is the 10 year anniversary of the first gravitaitonal-wave detection!</p>
 
-<p>In celebration, we invite you to share your gravitational-wave limericks. We will publish as many as we can in these pages. Limericks on any and all topics related to gravitational waves are welcome.</p>
+<p>In celebration, we invite you to share your gravitational-wave limericks. We will publish as many as we can in these pages. Limericks on any and all topics related to gravitational waves are welcome. You can write your limerick in any language.</p>
 
 <p><b>Go to the <a href="https://hannahm8.github.io/gwlimericks/limericks">All Limericks</a> page to read the limericks so far.</b></p>
 
