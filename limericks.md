@@ -7,7 +7,7 @@ permalink: /limericks
 <h1>Limericks</h1>
 
 
-<p>Read the gravitational-wave limerics below and submit your own <a href="https://hannahm8.github.io/gwlimericks/how-to-submit">here</a>.  <br></p>
+<p>Read the gravitational-wave limericks below and submit your own <a href="https://hannahm8.github.io/gwlimericks/how-to-submit">here</a>.<br></p>
 
 
 <hr>
