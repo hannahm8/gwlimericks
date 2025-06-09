@@ -13,6 +13,21 @@ permalink: /limericks
 <hr>
 
 <p style="font-size:11px" style="color:#3A003A;"><br><i>
+<b>Limerick-007:<br></b><br>
+I once discovered a gravitational wave,<br>
+It was a struggle to make the computer behave,<br>
+I set up the run,<br>
+The calculation was done,<br>
+But oh no, I forgot to press save.<br>
+  _ <br>
+Max Jones, June 2025<br></i>
+<br>
+</p>
+
+
+<hr>
+
+<p style="font-size:11px" style="color:#3A003A;"><br><i>
 <b>Limerick-006:<br>Redshifted</b><br>
 Big black holes are formed from stars<br>
 So metal poor that they are situated far<br>
