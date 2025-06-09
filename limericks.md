@@ -13,7 +13,7 @@ permalink: /limericks
 <hr>
 
 <p style="font-size:11px" style="color:#3A003A;"><br><i>
-<b>Limerick-006: Redshifted</b><br>
+<b>Limerick-006:<br>Redshifted</b><br>
 Big black holes are formed from stars<br>
 So metal poor that they are situated far<br>
 But inspiralling binaries all<br>
@@ -28,7 +28,7 @@ Debnandini Mukherjee, June 2025<br></i>
 
 
 <p style="font-size:11px" style="color:#3A003A;"><br><i>
-<b>Limerick-005: Case catalog</b><br>
+<b>Limerick-005:<br>Case catalog</b><br>
 You may have heard of gravitational waves<br>
 They stretch and squeeze the 4D space<br>
 Carrying information<br>
@@ -42,7 +42,7 @@ Debnandini Mukherjee, June 2025<br></i>
 <hr>
 
 <p style="font-size:11px" style="color:#3A003A;"><br><i>
-<b>Limerick-004: Postmortem</b><br>
+<b>Limerick-004:<br>Postmortem</b><br>
 Black holes can be thought of as the dead bodies of stars<br>
 The life history of which is hidden in its parameters<br>
 The sheriff has ordered an investigation<br>
@@ -56,7 +56,7 @@ Debnandini Mukherjee, June 2025<br></i>
 <hr>
 
 <p style="font-size:11px" style="color:#3A003A;"><br><i>
-<b>Limerick-003: The rest is is history </b><br>
+<b>Limerick-003:<br>The rest is is history </b><br>
 Gravitational waves seemed a bit of a stretch,<br>
 until some mad scientists made a pledge:<br>
 To see space-time bend<br>
@@ -84,7 +84,7 @@ Hannah Middleton, May 2025<br></i>
 <hr>
 
 <p style="font-size:11px" style="color:#3A003A;"><br><i>
-<b>Limerick-001: </b><br>
+<b>Limerick-001:</b><br>
 There will be a mission called LISA<br>
 soon launched by NASA and ESA<br>
 Taking Einstein to space<br>
