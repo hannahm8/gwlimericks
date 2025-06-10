@@ -13,6 +13,21 @@ permalink: /limericks
 <hr>
 
 <p style="font-size:11px" style="color:#3A003A;"><br><i>
+<b>Limerick-009:</b><br>
+Two black holes all awhirl in deep space<br>
+Sent a wave at a luminal pace<br>
+That swept by the Earth<br>
+Ten-to-ninth years from birth<br>
+Then continued its spherical race<br>
+  _ <br>
+Peter Shawhan, June 2025<br></i>
+<br>
+</p>
+
+
+<hr>
+
+<p style="font-size:11px" style="color:#3A003A;"><br><i>
 <b>Limerick-008:<br>Black Hole Revelry</b><br>
 Two black holes in a rarity<br>
 Whirled around in hilarity<br>
