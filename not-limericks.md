@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Other poems"
-permalink: /other-poems
+permalink: /not-limericks
 ---
 
 
