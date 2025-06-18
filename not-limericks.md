@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Not limericks"
+title: "Other poems"
 permalink: /not-limericks
 ---
 
