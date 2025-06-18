@@ -9,6 +9,20 @@ permalink: /limericks
 
 <p>Read the gravitational-wave limericks below and submit your own <a href="https://hannahm8.github.io/gwlimericks/how-to-submit">here</a>.<br></p>
 
+<hr>
+
+<p style="font-size:11px" style="color:#3A003A;"><br><i>
+<b>Limerick-010:<br>Catch me if you can</b><br>
+From Scorpius X-1 comes a beat,<br>
+A star with a rhythmic repeat.<br>
+We scan night and day,<br>
+But signals will not stay<br>
+Still silence… but soon? What a feat!<br>
+  _ <br>
+PaolaL, June 2025<br></i>
+<br>
+</p>
+
 
 <hr>
 
