@@ -19,7 +19,7 @@ We scan night and day,<br>
 But signals will not stay<br>
 Still silence… but soon? What a feat!<br>
   _ <br>
-PaolaL, June 2025<br></i>
+Paola Leaci, June 2025<br></i>
 <br>
 </p>
 
