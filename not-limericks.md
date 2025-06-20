@@ -10,6 +10,8 @@ permalink: /not-limericks
 <hr>
 
 <p style="font-size:11px" style="color:#3A003A;"><br><i>
+<b>Recollections of the event (GW150914)</b><br>
+<br>
 Monday, 14 September 2015:<br>
 <br>
 O1, the first Advanced LIGO observing run: for long years, the letters gleamed like glyphs from the future -- this week, it starts.<br>
@@ -62,7 +64,7 @@ Only today, though, when I looked at the Event log, did my fears begin to abate.
 All hardware channels checked, it said; our injections, indeed, were not ready.<br>
 As fireworks light my way home, I let myself start to think The Event is real.<br>
   _ <br>
-Grant Meadors, 2015<br></i>
+Grant David Meadors, 2015<br></i>
 <br>
 </p>
 
