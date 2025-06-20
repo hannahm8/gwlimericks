@@ -8,6 +8,7 @@ permalink: /not-limericks
 <p>Gravitational-wave poems which are not limericks are also most welcome!</p>
 
 <hr>
+<hr>
 
 <p style="font-size:11px" style="color:#3A003A;"><br><i>
 <b>Recollections of the event (GW150914)</b><br>
@@ -67,9 +68,6 @@ As fireworks light my way home, I let myself start to think The Event is real.<b
 Grant David Meadors, 2015<br></i>
 <br>
 </p>
-
-<hr>
-
 
 <hr>
 
