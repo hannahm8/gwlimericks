@@ -9,6 +9,21 @@ permalink: /limericks
 
 <p>Read the gravitational-wave limericks below and submit your own <a href="https://hannahm8.github.io/gwlimericks/how-to-submit">here</a>.<br></p>
 
+
+<hr>
+
+<p style="font-size:11px" style="color:#3A003A;"><br><i>
+<b>Limerick-011:</b><br>
+Such surprise was signal’s arrival,<br>
+The Black hole and Black hole inspiral,<br>
+The detection transformed<br>
+An astronomy reborn<br>
+Our historic event is archival.<br>
+  _ <br>
+Steve Penn, July 2025<br></i>
+<br>
+</p>
+
 <hr>
 
 <p style="font-size:11px" style="color:#3A003A;"><br><i>
