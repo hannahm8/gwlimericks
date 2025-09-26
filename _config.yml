@@ -1,7 +1,7 @@
 title: Gravitational Wave Limericks
 #email: to do 
 description: >- # this means to ignore newlines until "baseurl:"
-  A place to share gravitational wave limericks. 
+  A place to share gravitational wave limericks and other poems. 
 baseurl: "/gwlimericks" # the subpath of your site, e.g. /blog
 url: "hannahm8.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #github_username:  hannahm8
