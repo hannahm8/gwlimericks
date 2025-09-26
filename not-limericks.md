@@ -8,6 +8,18 @@ permalink: /not-limericks
 <p>Gravitational-wave poems which are not limericks are also most welcome!</p>
 
 <hr>
+
+
+<p style="font-size:11px" style="color:#3A003A;"><br><i>
+Shimmering space time<br>
+as imagined by Albert<br>
+detected by us<br>
+  _ <br>
+Carlo Polli, September 2025<br></i>
+<br>
+</p>
+
+
 <hr>
 
 <p style="font-size:11px" style="color:#3A003A;"><br><i>
