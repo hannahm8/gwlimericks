@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "GW Limericks"
+title: "GW Limericks Home"
 permalink: /
 ---
 
@@ -9,7 +9,7 @@ permalink: /
 
 <p>In celebration, we invite you to share your gravitational-wave limericks. We will publish as many as we can in these pages. Limericks on any and all topics related to gravitational waves are welcome. You can write your limerick in any language.</p>
 
-<p><b>Go to the <a href="https://hannahm8.github.io/gwlimericks/limericks">All Limericks</a> page to read the limericks so far.</b></p>
+<p><b>Go to the <a href="https://hannahm8.github.io/gwlimericks/limericks">All Limericks</a> page to read the limericks so far and go to the <a href="https://hannahm8.github.io/gwlimericks/not-limericks">Other Poems</a> page to read poems that are not limericks!</b></p>
 
 <p><b>Go to the <a href="https://hannahm8.github.io/gwlimericks/how-to-submit">How To Submit</a> page to submit your limerick.</b></p>
 <br>
